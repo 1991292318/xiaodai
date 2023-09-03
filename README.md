@@ -40,7 +40,7 @@ http://域名/cehsald
 
 截图展示
 
-![Uploading image.png…]()
+![Uploading image.png…](https://1991292318-1252272715.cos.ap-guangzhou.myqcloud.com/2023/04/20/1681994968.png)
 
 
 
